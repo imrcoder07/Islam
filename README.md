@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@islam65467183" target="blank"><img src="https://img.shields.io/twitter/follow/@islam65467183?logo=twitter&style=for-the-badge" alt="@islam65467183" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Full Stack Development using JAVA**
 
 - 📫 How to reach me **mdislamalam610@gmail.com**
 
